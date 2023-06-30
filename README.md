@@ -1,7 +1,7 @@
 # Информатика
 ## Программная инженерия
 ### Лабораторные
-[1 - Системы счисления](https://github.com/VeraKasianenko/Informatic_SE/tree/main/1_term_Software_engineering//lab1)
+[1 - Системы счисления](https://github.com/VeraKasianenko/Informatic_SE/tree/main/lab1)
 
 [2 - Синтез помехоустойчивого кода](https://github.com/VeraKasianenko/Informatic_SE/tree/main/lab2)
 
