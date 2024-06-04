@@ -74,7 +74,7 @@ __Вариант 1__
 _Finite-state machine_). Допускаются различия в расположении подписей над
 переходами и во внешнем виде стрелок.
 
-![image](https://github.com/VeraKasianenko/VeraKasianenko/assets/112972833/8473cb66-09d8-47f4-94df-7878282a76fd)
+![image](img/img1.png)
 
 __Вариант 2__
 
@@ -88,9 +88,9 @@ __Вариант 2__
 столбцов. Обратите внимание на то, что во второй таблице столбцы 0 и 2 выделены
 __полужирным__ и _курсивом_ соответственно.
 
-![image](https://github.com/VeraKasianenko/VeraKasianenko/assets/112972833/10d35208-a711-45dc-9757-2bd117c1b2ff)
+![image](img/img2.png)
 
-![image](https://github.com/VeraKasianenko/VeraKasianenko/assets/112972833/ccfc0e4a-4c45-440e-bcab-7130d4c87633)
+![image](img/img3.png)
 
 __Варианты 3–8__
 
